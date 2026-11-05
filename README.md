@@ -210,4 +210,4 @@ DNN - DotNetNuke is available as a full free version with all features and updat
 Ready to elevate your online presence? Click the download button above to start using DNN - DotNetNuke today!
 
 ---
-**Last updated:** 2026-11-05 03:01:16 UTC
+**Last updated:** 2026-11-05 11:45:53 UTC
